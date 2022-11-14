@@ -10,12 +10,12 @@ Supported OS platforms:
  - macOS(Darwin)
  - Linux
 
-Single-core CPU Benchmark by Alex Dedyura
 Multi-core CPU Benchmark by Kevin Liu
+Single-core CPU Benchmark by Alex Dedyura
 ```
 
- - [How to run](https://github.com/ReZeroE/cpu-benchmark#how-to-run)
- - [Benchmark reference](https://github.com/ReZeroE/cpu-benchmark#benchmark-reference)
+| [How to run](https://github.com/ReZeroE/cpu-benchmark#how-to-run) |  -  |
+[Benchmark reference](https://github.com/ReZeroE/cpu-benchmark#benchmark-reference) |
 
 </ul>
 <br clear="left"/>
