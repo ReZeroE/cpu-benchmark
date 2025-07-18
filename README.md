@@ -55,6 +55,7 @@ $ python ./multicore_cpubench -l 50000
 | :heavy_check_mark: | Apple M2 | 8 | Darwin | 24.721 seconds | 27.168 seconds |
 | :heavy_check_mark: | i9-12900K | 24 | x86_64 | 3.215 seconds | 5.656 seconds |
 | :heavy_check_mark: | i9-9900K | 16 | x86_64 | 8.825 seconds | 11.935 seconds |
+| :heavy_check_mark: | AMD Ryzen 7 4800H | 9 | Windows 11 | 12.572 seconds | 16.202 seconds |
 | :o: | i9-11900H | 16 | Windows 11  | untested | untested |
 | :o: | i5-9300H | 8 | Windows 11  | untested | untested |
 | :o: | i9-11900H | 16 | Windows 11  | untested | untested |
