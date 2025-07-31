@@ -43,9 +43,10 @@ def metadata():
     os_version  = platform.system()
     cpu_brand   = cpuinfo.get_cpu_info()['brand_raw']
     cpu_arch    = cpuinfo.get_cpu_info()['arch_string_raw']
-    os_ver      = str(os_version)
+    os_ver      = str(os_version) + " " + platform.release()
     print('Single-core CPU Benchmark by Alex Dedyura\nMulti-core CPU Benchmark by Kevin Liu\nSupports Windows, macOS(Darwin), and Linux')
     print('CPU: ' + cpu_brand)
+    print('Logical Cores:', cpu_count())
     print('Arch: ' + cpu_arch)
     print('OS: ' + os_ver)
     print("")
