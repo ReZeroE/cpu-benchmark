@@ -1,0 +1,6 @@
+services:
+  cpu_benchmark:
+    build: .
+    container_name: cpu_bench_container
+    stdin_open: true
+    tty: true
