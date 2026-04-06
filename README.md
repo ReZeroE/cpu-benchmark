@@ -58,6 +58,7 @@ $ python ./multicore_cpubench -l 50000
 | :heavy_check_mark: | AMD Ryzen 7 4800H | 8 | Windows 11 | 12.572 seconds | 16.202 seconds |
 | :heavy_check_mark: | Intel i5-10210U | 8 | Windows 11 | 32.276 seconds | 44.918 seconds |
 | :heavy_check_mark: | Intel i5-6500T | 4 | Windows 11 | 39.853 seconds | 54.143 seconds |
+| :heavy_check_mark: | Apple M4 | 10 | macOS(Darwin) | 6.775 seconds | 7.255 seconds |
 | :o: | i9-11900H | 16 | Windows 11  | untested | untested |
 | :o: | i5-9300H | 8 | Windows 11  | untested | untested |
 | :o: | i9-11900H | 16 | Windows 11  | untested | untested |
